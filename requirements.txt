@@ -1,0 +1,5 @@
+# Azure IoT Device SDK for Python
+azure-iot-device==2.14.0
+
+# Environment variable management
+python-dotenv==1.0.0

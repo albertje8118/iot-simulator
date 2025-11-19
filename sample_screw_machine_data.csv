@@ -1,0 +1,11 @@
+MachineID,CumulativeBitRotation,AvgTorque,NG_Rate_Last100,Rotations_LastHour,CycleTime_Avg_ms
+screw-robot-001,500000,0.32,0.01,12000,410
+screw-robot-002,900000,0.35,0.01,15000,415
+screw-robot-003,1500000,0.33,0.015,18000,420
+screw-robot-004,2000000,0.37,0.02,22000,430
+screw-robot-005,2300000,0.4,0.02,24000,440
+screw-robot-006,2500000,0.42,0.03,26000,450
+screw-robot-007,2550000,0.45,0.04,30000,470
+screw-robot-008,2590000,0.47,0.05,32000,485
+screw-robot-009,2600000,0.5,0.08,35000,500
+screw-robot-010,1500000,0.34,0.015,18000,420
